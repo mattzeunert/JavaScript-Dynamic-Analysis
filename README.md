@@ -17,4 +17,5 @@ To add a resource to this list, create an issue or submit a pull request.
 
 ## Tools
 
-[FromJS](http://www.fromjs.com/)
+[FromJS](http://www.fromjs.com/)  
+[Object History Debugger](https://github.com/mattzeunert/Object-History-Debugger)
