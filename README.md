@@ -17,5 +17,6 @@ To add a resource to this list, create an issue or submit a pull request.
 
 ## Tools
 
-[FromJS](http://www.fromjs.com/)  
+[v8-taint](https://github.com/p-march/v8-taint) V8 fork that allows marking any value in JS
+[FromJS](http://www.fromjs.com/) 
 [Object History Debugger](https://github.com/mattzeunert/Object-History-Debugger)
