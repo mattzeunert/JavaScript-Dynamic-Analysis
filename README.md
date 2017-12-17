@@ -11,8 +11,7 @@ To add a resource to this list, create an issue or submit a pull request.
 
 ## Papers etc.
 
-[JavaScript Type Inference Using Dynamic Analysis]
-(http://cs.au.dk/fileadmin/site_files/cs/Masters_and_diplomas/MortenPassowOdgaard.pdf)
+[JavaScript Type Inference Using Dynamic Analysis](http://cs.au.dk/fileadmin/site_files/cs/Masters_and_diplomas/MortenPassowOdgaard.pdf)
 
 [JSFlow: Tracking Information Flow in JavaScript and its APIs](http://www.cse.chalmers.se/~andrei/sac14.pdf)
 
